@@ -14,11 +14,13 @@
 
 使用方法截图：
 
-![8](https://github.com/Rain222222222/book_downloader/assets/130946945/f98f8bfd-f034-48c1-8369-e1d096812a44)![1](https://github.com/Rain222222222/book_downloader/assets/130946945/53a78e8b-b442-4ccd-b173-47fe1c79600f)
-![2](https://github.com/Rain222222222/book_downloader/assets/130946945/5e588c94-63a0-4e06-961e-4dd5b7b244e8)
-![3](https://github.com/Rain222222222/book_downloader/assets/130946945/276c6f4a-0737-46f8-90fa-35a134464bcc)
-![4](https://github.com/Rain222222222/book_downloader/assets/130946945/d3c36f89-097a-4591-8a69-2bf06f2e6c1c)
-![5](https://github.com/Rain222222222/book_downloader/assets/130946945/8aa7fe3f-2af1-4c29-ad09-f3b04c087b31)
-![6](https://github.com/Rain222222222/book_downloader/assets/130946945/845f4bd4-9016-45fc-a0e5-585a63f53421)
-![7](https://github.com/Rain222222222/book_downloader/assets/130946945/5e2cfb3c-d70a-4827-bf1b-af4a814bcb8f)
 
+
+![1](https://github.com/Rain222222222/book_downloader/assets/130946945/bac98f70-419b-4de3-b57b-2b38a117778c)
+![2](https://github.com/Rain222222222/book_downloader/assets/130946945/5d57384a-a2e6-44c7-80ee-4b8a5c4503c3)
+![3](https://github.com/Rain222222222/book_downloader/assets/130946945/c0c203c7-a66e-4542-9cd3-662626c12e8c)
+![4](https://github.com/Rain222222222/book_downloader/assets/130946945/43f7d586-ea3b-46e9-8561-67aed33f64f1)
+![5](https://github.com/Rain222222222/book_downloader/assets/130946945/a9550ae5-b345-4a70-83ec-281ef7477e30)
+![6](https://github.com/Rain222222222/book_downloader/assets/130946945/c80b6d49-da8f-4547-a7f8-019ef90ae5c8)
+![7](https://github.com/Rain222222222/book_downloader/assets/130946945/d781206b-a01b-4727-a65f-d67adc45544c)
+![8](https://github.com/Rain222222222/book_downloader/assets/130946945/d6108516-0338-4991-a25f-e4b279bd61ea)
